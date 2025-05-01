@@ -1,0 +1,4 @@
+streamlit
+email-validator
+captcha
+google-api-python-client
